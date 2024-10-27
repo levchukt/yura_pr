@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Велосипед гірний",
+        "price": 26650,
+        "image": "image (1).jpg"
+    },
+    {   "title": "Велосипед для шоссе",
+        "price": 53520,
+        "image": "image.jpg"
+    },
+    {   "title": "BMX",
+        "price":  14500,
+        "image": "bd4.jpg"
+    },
+    {   "title": "Велосипед Ardis 26",    
+        "price":  9900,
+        "image": "image4.webp"
+        
+    }, 
+    {   "title": "Велосипед Discovery Trek 29",    
+        "price":  9315,
+        "image": "bd5.jpg"
+    
+    },
+    {   "title": "Велосипед для їзди в зимку",    
+        "price":  11530,
+        "image": "bd6.jpg"
+    
+    },
+    {   "title": "Електричний велосипед Fatbike Wendat 48V",    
+        "price":  23000,
+        "image": "ив7.jpg"
+    
+    },
+    {   "title": "Велосипед дитячий Kellys Kiter 50",    
+        "price":  8600,
+        "image": "bd8.jpg"
+    
+    }
+
+]
+
