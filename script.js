@@ -78,20 +78,3 @@ moreBtn.addEventListener('click', ()=>{
     moreBtn.style.display = 'none'
 })
 })
-
-let revcnt =document.querySelector('.rev_cnt')
-let revInput = document.querySelector('.rev_inpu')
-let revBtn = document.querySelector('.rev_btn')
-
-revBtn.addEventListener('click', function(){
-    let revInput = document.querySelector('.rev_input')
-    let text = revInput.value
-    if (text != ''){
-        revcnt.innerHTML +=`
-         <div class="review">
-                    <img src="img/bd9.jpg" alt="">
-                    <p class="teview_text">${text}</p>
-                </div>
-        `
-    }
-})
